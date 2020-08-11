@@ -1,1 +1,0 @@
-var functionToTest = require('../function-to-test');
